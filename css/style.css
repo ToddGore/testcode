@@ -1,0 +1,31 @@
+
+
+.main {
+    background-image: url("../Grid2.bmp");
+    height: 400px;
+    width: 400px;
+    position: fixed;
+    left: 100px;
+    border: 1px solid red;
+}
+.test-box {
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    width: 50px;
+    border: 1px solid blue;
+    display: inline-block;
+    background-color: aquamarine;
+}
+
+.two {
+    background-color: blueviolet;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+
+p {
+    background-color: lightblue;
+}
