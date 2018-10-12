@@ -11,3 +11,5 @@ function reverse(str) {
 console.log('reverse ', reverse(string));
 
 // for each, for of, for each
+
+
