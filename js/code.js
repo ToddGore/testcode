@@ -1,6 +1,6 @@
 let string = "Hello"
 
-
+// Reverse string
 function reverse(str) {
     let reversed = ""
     for (let char of str) {
